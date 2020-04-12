@@ -1,10 +1,10 @@
-## Pb-Lite Contour Detection
+# Pb-Lite Contour Detection
 
 ## Author
-# Saket Seshadri Gudimetla Hanumath
+### Saket Seshadri Gudimetla Hanumath
 
 
-# Instructions on how to run
+## Instructions on how to run
 
 1. The program was written in python2.7.
 2. To run the code in command line just type "python2.7 Wrapper.py"
